@@ -4,6 +4,7 @@
     height: 1200px;
     padding:140px 100px;
     color:#fff;
+    height: 420px;
 }
 
 .shopwindow h1{
@@ -13,7 +14,7 @@
 }
 
 .shopwindow hr{
-    width: 400px;
+    width: 0px;
     margin:auto;
     border-width:5px;
     border-color: #1F272D;
@@ -57,8 +58,8 @@
     color: #1F272D!important; background-color: #B4D1E0!important;
 }
 
-.w3-blue2 {
-    color: #1F272D!important; background-color: #566C83!important;
+.w3-black {
+    color: #fff!important; background-color: #2F2E2E!important;
 }
 
 .w3-blue3 {
